@@ -1,1 +1,1 @@
-# Machine-Learning-Projects
+# GenAI-learnings
