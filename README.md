@@ -9,7 +9,7 @@ This repositories contains:
 
    ## What is an LLM
 
-   Large Langugae Models are a medium that depict the application and capability of Generative AI. These models are built on a humogous corpus of data which is trained on billions of parameters taking in a lot of compute. Some of the examples include OpenAi's ChatGPT, Llama2, Falcon et al. These models are prevalent today both in Open source and boxed format which are only accessible through APIs.
+   Large Langugae Models are a medium that depict the application and capability of Generative AI. These models are built on a humogous corpus of data which is trained on billions of parameters taking in a lot of compute. Some of the examples include OpenAi's ChatGPT, Llama2, Falcon et al. These models are prevalent today both in Open source and boxed format which are only accessible through APIs. LLMs are being used for a range of tasks such as answering questions, summarising documents, completing sentences, translating text, generating or explaining code, and more. Their performance is scaleble. That's fundamentally the difference between GPT-3 (175 billion parameters in its neural network) and GPT-4 (1 trillion parameters). Very large pre-trained language models like these can accurately predict text with just a handful of labeled examples. 
 
    ## What is PineCone
 
