@@ -15,7 +15,7 @@ This repositories contains:
 
    The usage of LLMs in the applications largely depends on the ability to convert the unstructured data into vectors and then eventually store as embeddings. Pinecone is an open source project that makes life easier for data scientist and developers to acheive this goal. Its a easy to use management suite for maintaining of embeddings, vector stores and indexes.
 
-   ## What is Lanchain
+   ## What is Langchain
 
    Langchain is another framework which is open source and has gained immense popularity on  teh grounds of bringing multiple LLMs access to one platform. It also abstracts some of the tasks for applicationd evelopments using LLMs like chunking, data loading, transformations, access to LLLms and much more.
 
