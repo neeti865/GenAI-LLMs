@@ -24,3 +24,15 @@ This repositories contains:
 ![image](https://github.com/neeti865/GenAI-learnings/assets/20933728/674c9a48-b2d8-4ab6-a411-278f6a502360)
 
 
+I specifically used Llama2 for my experiements because :
+
+1. Community response to Llama2 as an incumbent to open source models category of LLMs has been good.
+2. It is trained on diverse and extensive range of data making it much more performant and accurate in the NLP tasks
+3. It is readily availabile for fine tuning on muiltuple platforms liek HuggingFace, Ludwig
+4. There are multiple techniques availabel for efficient fien tuning using QLora and many other techniques
+5. RAG process is also applicable to the same.
+
+I'd like to explore all above and more in this repo to truly tap and apply the understanding on LLMs. this may serve useful to the community to understand the capabilities and lift and shift some of it to their own problems and coming up with solutions using the combination of learnings from the notebooks in this repo. 
+
+.... Thanks 
+
