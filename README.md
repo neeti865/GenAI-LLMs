@@ -1,4 +1,4 @@
-# GenAI-learnings
+# GenAI
 
 This repositories contains: 
 
